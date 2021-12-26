@@ -1,3 +1,4 @@
+THIS API NOT WRITTEN BY US!
 
 <h1>Dialogbox API</h1>
 
